@@ -1,0 +1,10 @@
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\bin\Debug\Tiktaktoe.exe.config
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\bin\Debug\Tiktaktoe.exe
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\bin\Debug\Tiktaktoe.pdb
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.frmGame.resources
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.Properties.Resources.resources
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.csproj.GenerateResource.cache
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.exe
+C:\Users\HP VICTUS\source\repos\Tiktaktoe\Tiktaktoe\obj\Debug\Tiktaktoe.pdb
